@@ -1,4 +1,4 @@
-package br.com.empiricus.aula5;
+package br.com.empiricus.aula05;
 
 import java.util.Random;
 import java.util.Scanner;
