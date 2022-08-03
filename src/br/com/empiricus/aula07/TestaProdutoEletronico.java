@@ -13,7 +13,7 @@ public class TestaProdutoEletronico {
         System.out.printf("O produto %s que é %s custa R$ %.2f\n", produto.getNome(), produto.getDescricao(), produto.getValorUnitario());
 
         float valorComDesconto =  produto.calcularDesconto(50);
-        System.out.printf("Valor final: R$ %.2f",valorComDesconto);
+        System.out.printf("Valor final: R$ %.2f", valorComDesconto);
 
     }
 
